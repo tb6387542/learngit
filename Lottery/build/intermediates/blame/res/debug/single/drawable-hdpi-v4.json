@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id_ssq_red_title.bmp",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\drawable-hdpi\\id_ssq_red_title.bmp"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id_ssq_blue_title.bmp",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\drawable-hdpi\\id_ssq_blue_title.bmp"
+    },
+    {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\id_ssq_blue_title.bmp",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\drawable-hdpi\\id_ssq_blue_title.bmp"
     },

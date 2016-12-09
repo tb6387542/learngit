@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\drawable-xhdpi\\ic_launcher.png"
     }

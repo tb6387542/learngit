@@ -1,15 +1,31 @@
 [
     {
-        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_shopping_row.xml",
-        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_shopping_row.xml"
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall2.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_hall2.xml"
     },
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_hall.xml"
     },
     {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_playssq.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_playssq.xml"
+    },
+    {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_user_login.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_user_login.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall_lottery_item.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_hall_lottery_item.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_title.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_title.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_play_prefectbetting.xml"
     },
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_title.xml",
@@ -24,8 +40,8 @@
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_hall_lottery_item.xml"
     },
     {
-        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting.xml",
-        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_play_prefectbetting.xml"
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_hall.xml"
     },
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall2.xml",
@@ -36,6 +52,34 @@
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_playssq.xml"
     },
     {
+        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting_row.xml",
+        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_play_prefectbetting_row.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_playssq1.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_playssq1.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_gridview_item_pop.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_gridview_item_pop.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_shopping_row.xml",
+        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_shopping_row.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall1.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_hall1.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting.xml",
+        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_play_prefectbetting.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_user_login.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_user_login.xml"
+    },
+    {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_main.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_main.xml"
     },
@@ -44,12 +88,24 @@
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_shopping.xml"
     },
     {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_shopping_row.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_shopping_row.xml"
+    },
+    {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_gridview_item_pop.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_gridview_item_pop.xml"
     },
     {
-        "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting_row.xml",
-        "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_play_prefectbetting_row.xml"
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_shopping.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_shopping.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_play_prefectbetting_row.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_play_prefectbetting_row.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_bottom.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_bottom.xml"
     },
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_bottom.xml",
@@ -58,5 +114,9 @@
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_hall1.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\layout\\il_hall1.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\layout\\il_main.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\layout\\il_main.xml"
     }
 ]
