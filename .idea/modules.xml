@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lottery/Lottery.iml" filepath="$PROJECT_DIR$/Lottery/Lottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lottery/Lottery.iml" filepath="$PROJECT_DIR$/Lottery/Lottery.iml" />
       <module fileurl="file://$PROJECT_DIR$/WZM.iml" filepath="$PROJECT_DIR$/WZM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learngit.iml" filepath="$PROJECT_DIR$/learngit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygps/mygps.iml" filepath="$PROJECT_DIR$/mygps/mygps.iml" />
       <module fileurl="file://$PROJECT_DIR$/mygps/mygps.iml" filepath="$PROJECT_DIR$/mygps/mygps.iml" />
     </modules>
   </component>

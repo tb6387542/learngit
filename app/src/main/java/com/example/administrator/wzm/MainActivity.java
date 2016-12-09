@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 LogUtil.i(TAG,DateUtil.curDateFormatStandard());
                 LogUtil.i(TAG,Tools.getVersion(MainActivity.this));
                 Toast.makeText(MainActivity.this, DateUtil.curDateFormatStandard(),Toast.LENGTH_SHORT).show();
+                //加一行
                 //加2行
             }
         });

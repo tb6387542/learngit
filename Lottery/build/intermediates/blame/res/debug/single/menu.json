@@ -2,5 +2,9 @@
     {
         "merged": "D:\\AS_Project\\WZM\\Lottery\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "D:\\AS_Project\\WZM\\Lottery\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\AS_Project\\learngit\\Lottery\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\AS_Project\\learngit\\Lottery\\res\\menu\\main.xml"
     }
 ]
