@@ -2,12 +2,12 @@ package cn.itcast.lottery.util.platform;
 
 
 
+import android.util.Log;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.Socket;
-
-import android.util.Log;
 
 /**
  * This class is a proxy to java.net.Socket to provide a common access to a socket resource on all mobile platforms.

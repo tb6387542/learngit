@@ -2,11 +2,6 @@ package cn.itcast.lottery.service;
 
 
 
-import java.io.IOException;
-import java.io.InputStream;
-
-import org.apache.commons.lang3.StringUtils;
-
 import android.app.AlarmManager;
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -17,6 +12,12 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.IBinder;
 import android.util.Log;
+
+import org.apache.commons.lang3.StringUtils;
+
+import java.io.IOException;
+import java.io.InputStream;
+
 import cn.itcast.lottery.CommonParams;
 import cn.itcast.lottery.R;
 import cn.itcast.lottery.activity.MainActivity;
