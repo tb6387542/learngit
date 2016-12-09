@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="back">#ff840101</color>
+    <color name="black">#ff000000</color>
+    <color name="black_slight">#212121</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="gray">#ffe5e5e5</color>
+    <color name="gray1">#ff8b8b8b</color>
+    <color name="grayt">#fff7f3f7</color>
+    <color name="grayy">#ff6b716b</color>
+    <color name="green">#30690B</color>
+    <color name="greend">#ff247f00</color>
+    <color name="greensfc">#ff44d500</color>
+    <color name="invest">#ffc9cbcc</color>
+    <color name="investhui">#ffe1e2e5</color>
+    <color name="loginback">#ffd9d9d9</color>
+    <color name="logoback">#ff750000</color>
+    <color name="orange">#fffffec2</color>
+    <color name="orange1">#ffdfc274</color>
+    <color name="orange2">#ffdfc276</color>
+    <color name="orange3">#fffc8b01</color>
+    <color name="paleyellow">#ffb8d300</color>
+    <color name="purple">#ff470000</color>
+    <color name="red">#ffff0000</color>
+    <color name="red2">#ffb20000</color>
+    <color name="red_slight">#CD2626</color>
+    <color name="seashell">#fffff5ee</color>
+    <color name="snow">#fffffafa</color>
+    <color name="white">#ffffffff</color>
+    <color name="yellow">#ffffff99</color>
+    <color name="yellowy">#ffffff00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">单注投注额不得大于20000元</string>
+    <string name="app_name">Lotteryhm28</string>
+    <string name="hello">Hello World, Lotteryhm28Activity!</string>
+    <string name="is_auto_login">自动登录</string>
+    <string name="is_ball_blue">蓝球</string>
+    <string name="is_ball_red">红球</string>
+    <string name="is_category_fc">福彩</string>
+    <string name="is_category_gpc">高频彩</string>
+    <string name="is_category_tc">体彩</string>
+    <string name="is_exit">退出</string>
+    <string name="is_forget_password_notice">您遗忘登录密码时可登录彩民村网站（www.caimincun.com）找回，或致电彩民村客服热线索回密码！
+</string>
+    <string name="is_hall_3d_title">10选3中1000元 每天20:30开奖</string>
+    <string name="is_hall_common_summary">第ISSUE期 还有TIME停售</string>
+    <string name="is_hall_qlc_title">百万奖期期开 每周一 三 五开奖</string>
+    <string name="is_hall_ssq_pool">奖池M%元</string>
+    <string name="is_hall_ssq_title">两元获500万 每周二 四 六开奖</string>
+    <string name="is_hall_summary_default">数据加载中……</string>
+    <string name="is_loading">加载中……</string>
+    <string name="is_login">登 录</string>
+    <string name="is_login_notice1">温馨提示：彩民村网站用户可以直接登录</string>
+    <string name="is_login_notice11">温馨提示：彩民村网站用户可以直接</string>
+    <string name="is_login_notice2"><u>登录</u></string>
+    <string name="is_lottery_money_limit">单注投注额不得大于20000元</string>
+    <string name="is_need_to_chose">您还需要选择NUM个</string>
+    <string name="is_negative">取消</string>
+    <string name="is_play_bottom_title">   共 NUM  注   MONEY  元   </string>
+    <string name="is_positive">确定</string>
+    <string name="is_random_blue">机选篮球</string>
+    <string name="is_random_red">机选红球</string>
+    <string name="is_regist_password">密     码:</string>
+    <string formatted="false" name="is_shopping_list_betting_money">金额：&amp;#160;&amp;#160;&lt;font color="#ff0000">MONEY1&lt;/font>元&amp;#160;&amp;#160;余额：&amp;#160;&amp;#160;&lt;font color="#ff0000">MONEY2&lt;/font>元</string>
+    <string formatted="false" name="is_shopping_list_betting_num">注数：&amp;#160;&amp;#160;&lt;font color="#ff0000">NUM&lt;/font>&amp;#160;&amp;#160;注</string>
+    <string formatted="false" name="is_shopping_list_notice">注数：&amp;#160;&amp;#160;&lt;font color="#ff0000">NUM&lt;/font>&amp;#160;&amp;#160;注&amp;#160;&amp;#160;金额：&amp;#160;&amp;#160;&lt;font color="#ff0000">MONEY&lt;/font>元</string>
+    <string formatted="false" name="is_shopping_list_title">N% I%期</string>
+    <string name="is_ssq">双色球</string>
+    <string name="is_ssq_default_notice">双色球加奖了，两亿元大派送！</string>
+    <string name="is_ssq_title">双色球第ISSUE期</string>
+    <string name="is_ssq_title_default">双色球选号</string>
+    <string formatted="false" name="is_user_loginned">您好：N% \n余额：M%元</string>
+    <string formatted="false" name="is_user_loginned_notice">您好：T% \n余额：M%元</string>
+    <string name="is_user_loginned_test">您好：132632***** \n余额：100.00元</string>
+    <string name="is_user_loginning">登陆中请等候……</string>
+    <string name="is_username">用户名:</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
